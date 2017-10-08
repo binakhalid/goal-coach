@@ -5,5 +5,6 @@ import completeGoals from './reducer_completed_goals';
 
 export default combineReducers({
 user,
-goals
+goals,
+completeGoals
 })
